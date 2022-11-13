@@ -4,6 +4,10 @@ To run the project you need to call run.sh file which is contained in the same d
 
 Check out [notebook](https://github.com/Rajasvi/traffic-violations-make-classification/blob/main/traffic_violations.ipynb]) for analysis details. For graphs please check [pdf](https://github.com/Rajasvi/traffic-violations-make-classification/blob/main/traffic_violations.pdf]) version of report.
 
+## Data fetch from S3
+```
+wget https://s3-us-west-2.amazonaws.com/pcadsassessment/parking_citations.corrupted.csv
+```
 ## Environment Settings
 Please install required dependencies in order to run model.pkl using:
 ```
