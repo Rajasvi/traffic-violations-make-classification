@@ -20,6 +20,7 @@ Otherwise bare minimum add these packages required for runnning code
 - pandas
 - numpy
 - flask
+- kaleido
 
 In order to train model and start server call:
 ```
