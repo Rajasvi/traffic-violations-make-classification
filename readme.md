@@ -2,7 +2,7 @@
 
 To run the project you need to call run.sh file which is contained in the same directory. It first loads the data from s3, installs the required packages, trains model then starts the server. Also I have added .ipynb jupyter notebook which includes EDA + Analysis + Feature Importance part. <br>
 
-Check out [notebook](https://github.com/Rajasvi/traffic-violations-make-classification/blob/main/traffic_violations.ipynb]) for analysis details. For graphs please check [pdf](https://github.com/Rajasvi/traffic-violations-make-classification/blob/main/traffic_violations.pdf]) version of report.
+Check out [notebook](https://github.com/Rajasvi/traffic-violations-make-classification/blob/main/traffic_violations.ipynb) for analysis details. For graphs please check [pdf](https://github.com/Rajasvi/traffic-violations-make-classification/blob/main/traffic_violations.pdf) version of report.
 
 ## Data fetch from S3
 ```
